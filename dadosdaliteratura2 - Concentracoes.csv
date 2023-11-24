@@ -1,0 +1,962 @@
+Fonte,Princípio ativo,classe terapeutica,concentracao entrada esgoto bruto (ng/L),concentracao esgoto tratado,% de remoção ,Tipo de tratamento,Faixa de remoção (%),Localização
+Salgado et al.. [14],Diclofenaco,Anti inflamatório,131.61,8.1,94,digestor anaeróbio + tanque anóxico,81 - 100,Portugal
+Yan et al.. [42],Diclofenaco,Anti inflamatório,601,3.2,46.8,Lodo ativado,41 - 60,China
+Yan et al.. [42],Eritromicina,Antibiótico,254.24,153.0,39.8,Lodo ativado,21 - 40,China
+Yan et al.. [42],Sulfametoxazol,Antibiótico,2935.4,1147.9,60.9,Lodo ativado,41 - 60,China
+"Brown and Wong.
+[48]",Sulfametoxazol,Antibiótico,2500,800,68,reator aeróbico,,Canada
+"Rivera-Jaimes et
+al.. [41]",Sulfametoxazol,Antibiótico,1143,730,36,reator aeróbico + reator anaeróbico + Lodo ativado,,Mexico
+Salgado et al.. [14],Ampicilina,Antibiótico,430,0,100,digestor anaeróbio + tanque anóxico,,Portugal 
+Wu et al.. [49],Carbamazepina,Droga psiquiátrica,68.2,27.5,59.7,digestor anaeróbio + tanque anóxico,,China 
+Wang et al.. [47],Carbamazepina,Droga psiquiátrica,17,18,-5.88,digestor anaeróbio + tanque anóxico,,China 
+"Lajeunesse et al..
+[50]",Carbamazepina,Droga psiquiátrica,1032,723,10,remoção biológica,,Canada
+Yan et al.. [42],Carbamazepina,Droga psiquiátrica,14.5,16.5,-13.79,Lodo ativado,,China 
+" Rivera-Jaimes et
+al.. [41]",Carbamazepina,Droga psiquiátrica,90,138,-53.33,reator aeróbico + reator anaeróbico + Lodo ativado,,Mexico
+Komesli et al.. [46],Carbamazepina,Droga psiquiátrica,78,4,94.9,Lodo ativado,,Turquia
+Wu et al.. [49],Fluoxetina,Droga psiquiátrica,1.4,1.4,0,digestor anaeróbio + tanque anóxico,,China
+Salgado et al.. [14],Fluoxetina,Droga psiquiátrica,1310,250,80.9,digestor anaeróbio + tanque anóxico,,Portugal
+"Lajeunesse et al..
+[50]",Fluoxetina,Droga psiquiátrica,16,8.6,47,remoção biológica,,Canadá
+Wu et al.. [49],Diazepam,Droga psiquiátrica,5.5,5.1,7.3,digestor anaeróbio + tanque anóxico,,China
+Salgado et al.. [14],Ibuprofeno,Anti inflamatório,1057,196,96.4,digestor anaeróbio + tanque anóxico,,Portugal
+Yan et al.. [42],Ibuprofeno,Anti inflamatório,268.0,14.6,94.6,Lodo ativado,,China
+" Rivera-Jaimes et
+al.. [41]",Naproxeno,Anti inflamatório,2600,260,90,reator aeróbico + reator anaeróbico + Lodo ativado,,México
+Salgado et al.. [14],Ketoprofeno,Anti inflamatório,11245,146,98.70,digestor anaeróbio + tanque anóxico,,Portugal
+Botero-Coy et al.. [45],Acetaminofeno,Anti inflamatório,39,30,23,tratamentoprimário: floculação + coagulação + sedimentação,,Colômbia
+Komesli et al.. [46],Acetaminofeno,Anti inflamatório,357,7,98,Lodo ativado,,Turquia
+" Rivera-Jaimes et
+al.. [41]",Trimetoprima,Antibiótico,145,143,1,reator aeróbico + reator anaeróbico + Lodo ativado,,México
+Wang et al.. [47],Trimetoprima,Antibiótico,257,186,27.6,digestor anaeróbio + tanque anóxico,,China
+Inyang,Trimetoprima,Antibiótico,77.37 ,153.0,39.8,Lodo ativado,,China
+Botero-Coy et al.. [45],Claritromicina,Antibiótico,0.32,0.31,3,tratamentoprimário: floculação + coagulação + sedimentação,,Colômbia
+Yan et al.. [42],Roxitromicina,Antibiótico,"404.0  
+",347.5 ,14,Lodo ativado,,China
+Yan et al.. [42],Azitromicina ,Antibiótico,362.5 ,81.5 ,77.5,Lodo ativado,,China
+Yan et al.. [42],Moxifloxacina,Antibiótico,19.9,6.6,66.8,Lodo ativado,,China
+Yan et al.. [42],Ofloxacino,Antibiótico,345.9 ,57.9 ,82.8,Lodo ativado,,China
+Yan et al.. [42],Norfloxacino,Antibiótico,203.0 ,30.4,85,Lodo ativado,,China
+Wu et al.. [49],Oxazepam,Droga psiquiátrica,10.8,6.5,39.8,digestor anaeróbio + tanque anóxico,,China
+Wang et al.. [47],Sulpirida,Droga psiquiátrica,143,168,-17.48,digestor anaeróbio + tanque anóxico,,China
+Wu et al.. [49],Estazolam,Droga psiquiátrica,2.9,1.5,48.3,digestor anaeróbio + tanque anóxico,,China
+"Lajeunesse et al..
+[50]",Norfluoxitina,Droga psiquiátrica,10,7.6,24,remoção biológica,,Canadá
+Wu et al.. [49],Temazepam,Droga psiquiátrica,15,2.5,83.3,digestor anaeróbio + tanque anóxico,,China
+Wu et al.. [49],Alprazolam,Droga psiquiátrica,8.6,6,30.2,digestor anaeróbio + tanque anóxico,,China
+Wu et al.. [49],Bromazepam,Droga psiquiátrica,2.1,17.4,-728.57,digestor anaeróbio + tanque anóxico,,China
+Wu et al.. [49],Lorazepam,Droga psiquiátrica,40.7,1.6,96.1,digestor anaeróbio + tanque anóxico,,China
+Castiglioni et al.. 2018,Sulfametoxazol ,Antibiótico,170,78.8,53.65,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Sulfametoxazol ,Antibiótico,10.5,70.7,-573.33,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Diclofenaco,Anti inflamatório,798.5,368.5,53.85,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Diclofenaco,Anti inflamatório,494.5,507.4,-2.60,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Diclofenaco,Anti inflamatório,731.2,532.4,27.19,Biofiltro,,Itália
+Castiglioni et al.. 2018,Ciprofloxacino ,Anti inflamatório,655.6 ,141,78.49,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ciprofloxacino ,Anti inflamatório,666.7,172.4,74.14,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ciprofloxacino ,Anti inflamatório,531.9 ,293.7,44.78,Biofiltro,,Itália
+Castiglioni et al.. 2018,Claritromicina,Antibiótico,1012.0 ,281.6,72.17,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Claritromicina,Antibiótico,976.1 ,312.7,67.96,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Claritromicina,Antibiótico,892.9 ,802.6,10.11,Biofiltro,,Itália
+Castiglioni et al.. 2018,Licomicina,Antibiótico,29.5,10.2,65.42,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Lincomicina,Antibiótico,28.1,17.6,37.37,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Lincomicina,Antibiótico,13.9,20.9,-50.36,Biofiltro,,Itália
+Castiglioni et al.. 2018,Ofloxacino,Antibiótico,487.8 ,215.1,55.90,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ofloxacino,Antibiótico,682.3 ,275.4,59.64,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ofloxacino,Antibiótico,467.1,390.2,16.46,Biofiltro,,Itália
+Castiglioni et al.. 2018,Ibuprofeno,Anti inflamatório,863.9,170.4,80.27,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ketoprofeno,Anti inflamatório,1209.5,92.4,92.36,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ketoprofeno,Anti inflamatório,964.2 ,257.9,73.25,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Ketoprofeno,Anti inflamatório,859.0 ,169.7,80.24,Biofiltro,,Itália
+Castiglioni et al.. 2018,Naproxeno,Anti inflamatório,1192.5,31.0,97.40,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Naproxeno,Anti inflamatório,1407.9,90.8,93.55,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Naproxeno,Anti inflamatório,571.1,505.4,11.50,Biofiltro,,Itália
+Castiglioni et al.. 2018,Paracetamol ,Anti inflamatório,2578.4,22.6,99.12,Biofiltro,,Itália
+Castiglioni et al.. 2018,Carbamazepina,Droga psiquiátrica,286.3,207.4 ,27.56,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Carbamazepina,Droga psiquiátrica,309.2,302.1,2.30,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Carbamazepina,Droga psiquiátrica,1313.7,226.2,82.78,Biofiltro,,Itália
+Castiglioni et al.. 2018,Diazepam ,Droga psiquiátrica,1.7,1.4,17.64,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Diazepam ,Droga psiquiátrica,1.4,2.0,-42.86,Lodo ativado,,Itália
+Castiglioni et al.. 2018,Diazepam ,Droga psiquiátrica,6.3,5.5,12.70,Biofiltro,,Itália
+García-Galan et al. 2016,Diclofenaco,Anti inflamatório,512.75,145.5,71,"Lodo ativado
+",,Espanha
+García-Galan et al. 2017,Diclofenaco,Anti inflamatório,765.5,331,61,"Lodo ativado
+",,Espanha
+KIM et al.. 2007,Diclofenaco,Anti inflamatório,10,25,-60,Lodo ativado + MBR,,Coreia do Sul
+García-Galan et al. 2016,Carbamazepina,Droga psiquiátrica,171,24,85,"Lodo ativado
+",,Espanha
+García-Galan et al. 2016,Carbamazepina,Droga psiquiátrica,87.5,110,-17,"Lodo ativado
+",,Espanha
+Rosal et al.. 2010,Carbamazepina,Droga psiquiátrica,129,117,9.5,"Lodo ativado
+",,
+KIM et al.. 2007,Carbamazepina,Droga psiquiátrica,42,46,-8,Lodo ativado + MBR,,Coreia de Sul
+KIM et al.. 2007,Ibuprofeno,Anti inflamatório,5320,52,99.02,Lodo ativado + MBR,,Coreia de Sul
+KIM et al.. 2007,Naproxeno,Anti inflamatório,262,168,35.88,Lodo ativado + MBR,,Coreia de Sul
+KIM et al.. 2007,Trimetoprima,Antibiótico,21,31,-47.62,Lodo ativado + MBR,,Coreia de Sul
+KIM et al.. 2007,Sulfametoxazol,Antibiótico,194,70,63.92,Lodo ativado + MBR,,Coreia de Sul
+KIM et al.. 2007,Eritromicina,Antibiótico,44,40,09.09,Lodo ativado + MBR,,Coreia de Sul
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,34.2,9.8,71.34,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,22.5,9.4,30.12,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,252,178,29.36,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,511,218,57.34,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,592,394,33.44,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,1529,915,40.16,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,538,334,37.92,Lodo ativado,,Brasil
+Jank et al.. 2014,Sulfametoxazol,Antibiótico,306,122,60.13,Lodo ativado,,Brasil
+Grosseli et al.. 2016,Diclofenaco,Anti inflamatório,418.2,121.1,71.04,Sistema de lagoas,,Brasil
+Grosseli et al.. 2016,Diclofenaco,Anti inflamatório,3352.5,958.1,71.42,Sistema de lagoas,,
+Grosseli et al.. 2016,Carbamazepina,Droga psiquiátrica,152.6,199.2,-30.54,Sistema de lagoas,,
+Grosseli et al.. 2016,Carbamazepina,Droga psiquiátrica,2461.7,12891.6,-423.68,Sistema de lagoas,,Brasil
+Grosseli et al.. 2016,Diclofenaco,Anti inflamatório,147.1,185.6,-26.17,UASB,,
+Grosseli et al.. 2016,Diclofenaco,Anti inflamatório,2380.2,1036.1,56.47,UASB,,Brasil
+Grosseli et al.. 2016,Carbamazepina,Droga psiquiátrica,143.2,142.8,0.28,UASB,,
+Grosseli et al.. 2016,Carbamazepina,Droga psiquiátrica,853.7,967.2,-13.29,UASB,,Brasil
+Kasprzyk-Hordern et al.. 2009,Sufametoxazol,Antibiótico,29,10,65.51,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Metronidazol,Antibiótico,643,265,59.79,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Eritromicina,Antibiótico,1609,1385,13.92,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Paracetamol,Anti inflamatório,211380,11733,94.45,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ibuprofeno,Anti inflamatório,1681,263,84.35,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ketoprofeno,Anti inflamatório,28,16,42.86,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Naproxeno,Anti inflamatório,838,370,55.85,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Aspirina,Anti inflamatório,664,27,95.93,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ácido Salicílico,Anti inflamatório,5866,164,97.20,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ácido Mefenâmico,Anti inflamatório,205,61,70.24,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Codeína,Anti inflamatório,10321,5271,48.93,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Tramadol,Anti inflamatório,36750,43813,-19.22,filtro biológico,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Carbamazepina,Droga psiquiátrica,1694,2499,-47.52,filtro biológico,,Reino Unido
+Jank et al.. 2014,Eritromicina,Antibiótico,1586,515,67.53,Lodo ativado,,
+Jank et al.. 2014,Ciprofloxacino ,Antibiótico,304,78.6,74.14,Lodo ativado,,Brasil
+Jank et al.. 2015,Ciprofloxacino ,Antibiótico,326,71.4,78.09,Lodo ativado,,Brasil
+Jank et al.. 2016,Ciprofloxacino ,Antibiótico,93.6,90.9,2.88,Lodo ativado,,Brasil
+Jank et al.. 2017,Ciprofloxacino ,Antibiótico,232,42.7,81.59,Lodo ativado,,Brasil
+Jank et al.. 2018,Ciprofloxacino ,Antibiótico,350,81.7,76.66,Lodo ativado,,Brasil
+Jank et al.. 2019,Ciprofloxacino ,Antibiótico,184,158,14.13,Lodo ativado,,Brasil
+Jank et al.. 2014,Ciprofloxacino ,Antibiótico,287,78.9,72.51,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino,Antibiótico,232,52.4,77.41,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,215,55.8,74.05,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,72.9,58.2,20.16,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,134,47.3,64.70,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,114,37.7,66.93,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,197,90.7,53.96,Lodo ativado,,Brasil
+Jank et al.. 2014,Norfloxacino ,Antibiótico,185,86.1,53.46,Lodo ativado,,Brasil
+Jank et al.. 2014,Cefalexina ,Antibiótico,865,483,44.16,Lodo ativado,,Brasil
+Jank et al.. 2014,Cefalexina ,Antibiótico,1174,494,57.92,Lodo ativado,,Brasil
+Jank et al.. 2014,Cefalexina ,Antibiótico,956,158,83.47,Lodo ativado,,Brasil
+Jank et al.. 2014,Tetracilina ,Antibiótico,126,20.7,83.57,Lodo ativado,,Brasil
+Jank et al.. 2014,Tetracilina ,Antibiótico,143,27.8,80.56,Lodo ativado,,Brasil
+Jank et al.. 2014,Tetracilina ,Antibiótico,104,20.3,80.48,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,177,94.8,46.44,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,105,83.9,20.09,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,122,70.7,42.05,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,221,122,44.79,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,355,173,51.27,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,6376,2761,56.69,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,290,209,27.93,Lodo ativado,,Brasil
+Jank et al.. 2014,Trimetoprina,Antibiótico,262,129,50.76,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,10,10.9,-9,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,12.4,10,19.35,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,32.5,20.6,36.61,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,20,13.9,30.5,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,148,107,27.70,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,313,62.8,79.93,Lodo ativado,,Brasil
+Jank et al.. 2014,Azitromicina ,Antibiótico,55.3,49.9,9.76,Lodo ativado,,Brasil
+(JELIC et al.. 2011,Diclofenaco,Anti inflamatório,3000,2500,17,Lodo ativado,,-
+BROWN et al.. 2006,Sulfametoxazol,Antibiótico,390,310,20,Sistema de lagoas,,Estados Unidos
+(CARBALLA et al.. 2004,Sulfametoxazol,Antibiótico,600,200,67,Lodo ativado,,Espanha
+Kimura et al.. 2007,Diclofenaco,Anti inflamatório,251,145,42.23,Lodo ativado,,Japão
+Kimura et al.. 2007,Diclofenaco,Anti inflamatório,251,124,50.59,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Diclofenaco,Anti inflamatório,251,46,81.67,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Ibuprofeno,Anti inflamatório,1966,40,97.96,Lodo ativado,,Japão
+Kimura et al.. 2007,Ibuprofeno,Anti inflamatório,1966,106,94.61,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Ibuprofeno,Anti inflamatório,1966,35,98.22,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Ketoprofeno,Anti inflamatório,979,445,54.54,Lodo ativado,,Japão
+Kimura et al.. 2007,Ketoprofeno,Anti inflamatório,979,171,82.53,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Naproxeno,Anti inflamatório,276,99,64.13,Lodo ativado,,Japão
+Kimura et al.. 2007,Naproxeno,Anti inflamatório,276,11,96.01,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Ácido Mefenâmico,Anti inflamatório,221,62,71.94,Lodo ativado,,Japão
+Kimura et al.. 2007,Ácido Mefenâmico,Anti inflamatório,221,51,76.92,MBR (biorreator de membrana),,Japão
+Kimura et al.. 2007,Ácido Mefenâmico,Anti inflamatório,221,15,93.21,MBR (biorreator de membrana),,Japão
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,670,690,-2.98,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,453,758,-67.33,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,517,758,-46.61,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,325,465,-43.07,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,1850,1594,13.84,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,1200,1337,-11.42,Lodo ativado,,Áustria
+Clara et al.. 2005a,Carbamazepina,Droga psiquiátrica,704,952,-35.23,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,1400,1300,7.15,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,1040,1300,-25,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,1440,1300,9.72,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,905,780,13.81,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,3250,1536,52.74,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,4114,1533,62.74,Lodo ativado,,Áustria
+Clara et al.. 2005a,Diclofenaco,Anti inflamatório,3190,1680,47.33,Lodo ativado,,Áustria
+Clara et al.. 2005a,Ibuprofeno,Anti inflamatório,2300,2400,-4.35,Lodo ativado,,Áustria
+Clara et al.. 2005a,Ibuprofeno,Anti inflamatório,3650,300,91.78,Lodo ativado,,Áustria
+Clara et al.. 2005a,Ibuprofeno,Anti inflamatório,3675,300,91.84,Lodo ativado,,Áustria
+Clara et al.. 2005a,Ibuprofeno,Anti inflamatório,1200,24,98,Lodo ativado,,Áustria
+Clara et al.. 2005a,Ibuprofeno,Anti inflamatório,2448,20,99.18,Lodo ativado,,Áustria
+Santos et al.. 2007,Carbamazepina,Droga psiquiátrica,280,290,-3.57,Lodo ativado,,Espanha
+Santos et al.. 2007,Carbamazepina,Droga psiquiátrica,300,500,-66.67,Lodo ativado,,Espanha
+Santos et al.. 2007,Carbamazepina,Droga psiquiátrica,290,320,-10.34,Lodo ativado,,Espanha
+Santos et al.. 2007,Carbamazepina,Droga psiquiátrica,360,370,-2.78,Lodo ativado,,Espanha
+Santos et al.. 2007,Ibuprofeno,Anti inflamatório,59140,6200,89.52,Lodo ativado,,Espanha
+Santos et al.. 2007,Ibuprofeno,Anti inflamatório,94120,10890,88.43,Lodo ativado,,Espanha
+Santos et al.. 2007,Ibuprofeno,Anti inflamatório,156160,12600,91.93,Lodo ativado,,Espanha
+Santos et al.. 2007,Ibuprofeno,Anti inflamatório,150730,11500,92.37,Lodo ativado,,Espanha
+Santos et al.. 2007,Ketoprofeno,Anti inflamatório,540,340,37.04,Lodo ativado,,Espanha
+Santos et al.. 2007,Ketoprofeno,Anti inflamatório,300,210,30,Lodo ativado,,Espanha
+Santos et al.. 2007,Ketoprofeno,Anti inflamatório,460,360,21.74,Lodo ativado,,Espanha
+Santos et al.. 2007,Ketoprofeno,Anti inflamatório,1360,410,69.85,Lodo ativado,,Espanha
+Santos et al.. 2007,Naproxeno,Anti inflamatório,4040,2620,35.15,Lodo ativado,,Espanha
+Santos et al.. 2007,Naproxeno,Anti inflamatório,11140,1180,89.41,Lodo ativado,,Espanha
+Santos et al.. 2007,Naproxeno,Anti inflamatório,5180,1830,64.67,Lodo ativado,,Espanha
+Santos et al.. 2007,Naproxeno,Anti inflamatório,5070,1960,61.34,Lodo ativado,,Espanha
+Santos et al.. 2009,Carbamazepina,Droga psiquiátrica,530,580,-9.43,Lodo ativado,,Espanha
+Santos et al.. 2009,Carbamazepina,Droga psiquiátrica,470,610,-29.79,Lodo ativado,,Espanha
+Santos et al.. 2009,Carbamazepina,Droga psiquiátrica,410,490,-19.51,Lodo ativado,,Espanha
+Santos et al.. 2009,Carbamazepina,Droga psiquiátrica,490,560,-14.28,Lodo ativado,,Espanha
+Santos et al.. 2009,Ibuprofeno,Anti inflamatório,69700,4130,94.07,Lodo ativado,,Espanha
+Santos et al.. 2009,Ibuprofeno,Anti inflamatório,84400,6690,92.07,Lodo ativado,,Espanha
+Santos et al.. 2009,Ibuprofeno,Anti inflamatório,105000,10160,90.32,Lodo ativado,,Espanha
+Santos et al.. 2009,Ibuprofeno,Anti inflamatório,115000,7620,93.37,Lodo ativado,,Espanha
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,901,261,71.03,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,1036,289,72.10,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,997,598,40.02,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,33764,1979,94.14,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,27979,2972,89.38,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,7741,4239,45.24,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,113,290,-156.64,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,71,145,-104.22,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,141,202,-43.26,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,136,290,-113.23,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,204,396,-94.12,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,363,340,6.33,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,213,322,-51.17,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,263,271,-3.04,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,300,218,27.33,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,901,406,54.94,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,1036,120,88.42,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Diclofenaco,Anti inflamatório,997,499,49.95,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,33764,15778,53.27,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,27979,13953,50.13,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ibuprofeno,Anti inflamatório,7741,8771,-13.30,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,113,258,-128.32,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,71,153,-115.49,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Eritromicina,Antibiótico,141,188,-33.33,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,136,910,-569.12,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,204,888,-335.29,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Ácido mefenâmico,Antibiótico,363,1080,-197.52,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,213,414,-94.37,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,263,388,-47.53,Lodo ativado,,Reino Unido
+Roberts and Thomas. 2006,Trimetoprima,Antibiótico,300,406,-35.33,Lodo ativado,,Reino Unido
+Yu et all. 2006,Ibuprofeno,Anti inflamatório,1900,250,85,Lodo ativado,,Estados Unidos
+Yu et all. 2006,Diclofenaco,Anti inflamatório,110,90,18,Lodo ativado,,Estados Unidos
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,540,570,-5.56,Lodo ativado,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,790,850,-7.59,Lodo ativado,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,370,550,-48.65,Lodo ativado,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,540,880,-62.96,Lodo ativado,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,530,410,22.64,Sistema de lagoas,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,360,420,16.67,Sistema de lagoas,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,240,320,-33.33,Sistema de lagoas,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,280,440,-57.14,Sistema de lagoas,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,940,870,7.45,UASB,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,950,900,5.26,UASB,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,370,400,-8.10,UASB,,Brasil
+Guedes. 2017,Carbamazepina,Droga psiquiátrica,1240,1590,-28.22,UASB,,Brasil
+Guedes. 2017,Paracetamol,Droga psiquiátrica,83620,260,99.68,UASB,,Brasil
+Guedes. 2017,Paracetamol,Droga psiquiátrica,800,330,58.75,UASB,,Brasil
+Guedes. 2017,Paracetamol,Droga psiquiátrica,19340,290,98.5,UASB,,Brasil
+Guedes. 2017,Paracetamol,Droga psiquiátrica,11350,300,97.36,UASB,,Brasil
+Rivera-Jaimes et al. 2018,Diclofenaco,Anti inflamatório,2363,2030,14.09,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Diclofenaco,Anti inflamatório,1090,593,45.59,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Sulfametoxazol,Antibiótico,1143,730,36.13,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Sulfametoxazol,Antibiótico,186,1480,-695.69,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Carbamazepina,Droga psiquiátrica,138,381,-176.08,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Carbamazepina,Droga psiquiátrica,62,290,-367.74,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Naproxeno,Anti inflamatório,2600,260,90,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Naproxeno,Anti inflamatório,2400,77,96.79,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Ácido Salicílico,Anti inflamatório,240,173,27.92,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Ácido Salicílico,Anti inflamatório,269,102,62.08,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Trimetoprima,Antibiótico,145,143,1.38,Lodo ativado,,México
+Rivera-Jaimes et al. 2018,Trimetoprima,Antibiótico,680,338,50.29,Lodo ativado,,México
+Papageorgiou et al.. 2016,Diclofenaco,Anti inflamatório,833,684,17.89,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Diclofenaco,Anti inflamatório,801,903,-12.73,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Sulfametoxazol,Antibiótico,90.7,24.6,23.3,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Sulfametoxazol,Antibiótico,104,44.1,57.59,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Paracetamol,antiinflamatório,1611,55,96.58,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ácido Salicílico,antiinflamatório,6550,220,96.64,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ácido Salicílico,antiinflamatório,8115,128,98.42,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ácido Salicílico,antiinflamatório,4723,80,98.31,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ampicilina,Antibiótico,1257,161,87.19,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ampicilina,Antibiótico,981,171,82.57,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ampicilina,Antibiótico,1367,116,91.51,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ampicilina,Antibiótico,1368,153,88.81,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ciprofloxacino,Antibiótico,182,215,-18.13,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Ciprofloxacino,Antibiótico,406,499,-22.91,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Trimetoprima,Antibiótico,170,34.6,79.65,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Trimetoprima,Antibiótico,133,22.6,7.3,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Trimetoprima,Antibiótico,116,78.4,32.41,Lodo ativado,,Grécia
+Papageorgiou et al.. 2016,Trimetoprima,Antibiótico,133,78.2,41.20,Lodo ativado,,Grécia
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,1360,1610,-18.38,Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,185,1060,-472.97, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,1470,739,49.73, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,3700,848,77.08, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,504,793,-57.34, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,2060,875,57.52, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,28.4,150,-428.17, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,5.96,121,-1930.20, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,12.6,115,-812.69, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,8.9,113,-1169.66, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,7.82,102,-1204.35, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,10.20,93.2 ,-813.72, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Diclofenaco,Anti inflamatório,91.6 ,9.31,89.83, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Diclofenaco,Anti inflamatório,102,24.5,8.4, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Diclofenaco,Anti inflamatório,152,30.0 ,80.26, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Diclofenaco,Anti inflamatório,144,25.8,4.2, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Diclofenaco,Anti inflamatório,145,25.3,21.12, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,579,372,35.75, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,380,325,14.47, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,382,241,36.91, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,371,300,19.14, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,340,280,17.65, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,296,318,-7.43, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Carbamazepina,Droga psiquiátrica,271,252,07.01, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,5.89,327,-5451.78, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,295,352,-19.32, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,857,371,56.71, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,776,498,35.82, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,619,416,32.79, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,541,344,36.41, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Sulfametoxazol,Antibiótico,485,316,34.84, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,22100,3290,85.11, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,14300,3180,77.76, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,18800,3510,81.33, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,41400,3600,91.30, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,21000,4530,78.43, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,34300,4220,87.69, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,146,77.3,47.05, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,24.8,89.9,-262.5, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,12.6,20.4,-61.90, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,108,235,-117.59, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,961,86.6 ,90.99, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,42.4,61,-43.87, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,549,75.1 ,86.32, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,673,86.4,87.16, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,115,81.4,29.22, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,307,112,63.52, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antibiótico,4520,546,87.92, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,4710,1430,69.64, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,4650,118,97.46, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Naproxeno,antiinflamatório,4260,31,99.27, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,116,47.9,58.71, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,53.2,5.30 ,90.04, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,92.8 ,13.6,24.4, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,106,7.53,92.89, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,100,23.7,15.9, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,224,29.2,86.96, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Claritromicina,antibiótico,181,12.2,93.26, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,99,31.4,68.28, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,89.8 ,3.65,95.93, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,87.3,5.96,93.17, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,96.8,8.16 ,91.57, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,90.5 ,5.45,93.98, Terciário: SAGR,,Canadá
+Anderson et al.. 2020,Trimetoprima,antibiótico,79,5.89,92.54, Terciário: SAGR,,Canadá
+Behera et al.. 2011,Diclofenaco,Anti inflamatório,131,24,81.4,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Carbamazepina,Droga psiquiátrica,72,55,23.1,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Sulfametoxazol,Antibiótico,120,57,51.9,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Ibuprofeno,Anti inflamatório,2265,40,98.2,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Ketoprofeno,Anti inflamatório,202,12,94.2,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Naproxeno,Anti inflamatório,2584,111,95.7,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Ácido mefenâmico,Anti inflamatório,121,153,-26.3,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Lincomicina,Antibiótico,8176,9089,-11.2,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Trimetoprima,Antibiótico,205, 69.0,69,Lodo ativado,,Coreia do Sul
+Behera et al.. 2011,Acetaminofeno,Anti inflamatório,7460,10,99.9,Lodo ativado,,Coreia do Sul
+Arrubla et al.. 2016,Diclofenaco,Anti inflamatório,21600,5300,75.46,Terciário: Fitro anaeróbio (FAS),,Chile
+Arrubla et al.. 2016,Ibuprofeno,Anti inflamatório,300,900,-200,Terciário: Fitro anaeróbio (FAS),,Chile
+Arrubla et al.. 2016,Ketoprofeno,Anti inflamatório,1300,1500,-15.38,Terciário: Fitro anaeróbio (FAS),,Chile
+Arrubla et al.. 2016,Naproxeno,Anti inflamatório,1100,2300,-109.09,Terciário: Fitro anaeróbio (FAS),,Chile
+Baalbaki et al.. 2016,Sulfametoxazol,Anti inflamatório,33,47,-42.42,Lodo ativado,,Canadá
+Baalbaki et al.. 2016,Trimetoprima,Antibiótico,25,29,-16,Lodo ativado,,Canadá
+Baalbaki et al.. 2016,Naproxeno,Anti inflamatório,471,20,95.75,Lodo ativado,,Canadá
+Baalbaki et al.. 2016,Carbamazepina,Droga psiquiátrica,591,588,0.51,Lodo ativado,,Canadá
+Bisognin et al.. 2019,Sulfametoxazol,Antibiótico,980,301,69.28,UASB + Lodo ativado,,Brasil
+Bisognin et al.. 2019,Ciprofloxacino,Antibiótico,385,64,83.38,UASB + Lodo ativado,,Brasil
+Bisognin et al.. 2019,Clindamicina,Antibiótico,39,99,-153.84,UASB + Lodo ativado,,Brasil
+Bisognin et al.. 2019,Ofloxacino,Antibiótico,281,34,87.90,UASB + Lodo ativado,,Brasil
+Bisognin et al.. 2019,Paracetamol,Anti inflamatório,13640,417,96.94,UASB + Lodo ativado,,Brasil
+Bisognin et al.. 2019,Trimetoprima,Antibiótico,42,50,-19.05,UASB + Lodo ativado,,Brasil
+Chen et al.. 2014,Diclofenaco,Anti inflamatório,1420,903,36.41,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Ibuprofeno,Anti inflamatório,14200,2330,83.59,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Carbamazepina,Droga psiquiátrica,434,230,47,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Indometacino,Anti inflamatório,56,39,30.36,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Naproxeno,Anti inflamatório,8440,3320,60.66,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Trimetoprima,Antibiótico,495,413,16.56,Terciário: remoção química de fósforo,,Canadá
+Chen et al.. 2014,Diclofenaco,Anti inflamatório,1420,1110,21.83,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Ibuprofeno,Anti inflamatório,14200,131,99.08,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Carbamazepina,Droga psiquiátrica,434,512,-17.97,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Indometacino,Anti inflamatório,56,64,-14.29,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Fenoprofeno,Anti inflamatório,62,47,24.19,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Naproxeno,Anti inflamatório,8440,167,98.02,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Trimetoprima,Antibiótico,495,417,15.75,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Diclofenaco,Anti inflamatório,1420,1300,8.45,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Ibuprofeno,Anti inflamatório,14200,29,99.79,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Carbamazepina,Droga psiquiátrica,434,561,-29.26,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Indometacino,Anti inflamatório,56,61,-8.93,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Fenoprofeno,Anti inflamatório,62,38,38.71,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Naproxeno,Anti inflamatório,8440,109,98.71,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2014,Trimetoprima,Antibiótico,495,1420,-186.87,Terciário: Rem. biológica de nutrientes,,Canadá
+Chen et al.. 2021,Eritromicina,Antibiótico,36.3,60.3,-66.11,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Sulfametoxazol,Antibiótico,6.5,9.7,-49.23,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Diclofenaco,Anti inflamatório,7.8,3.7,52.56,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Amoxicilina,Antibiótico,25.3,7.9,68.77,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Azitromicina,Antibiótico,154,50.5,67.21,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Ciprofloxacino,Antibiótico,30.6,7.1,76.79,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Claritromicina,Antibiótico,21.1,22.7,-7.58,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Lincomicina,Antibiótico,50,11.8,76.4,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Ofloxacino,Antibiótico,114,39.6,65.26,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Roxitromicina,Antibiótico,45.8,57,-24.45,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Sulfapiridina,Antibiótico,4.4,6.6,-29.12,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Tetraciclina,Antibiótico,165,22.8,86.18,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Trimetoprima,Antibiótico,10.7,6,43.92,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Paracetamol,Anti inflamatório,194,5,97.42,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Antipirina,Anti inflamatório,0.4,3.7,-8.25,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Naproxeno,Anti inflamatório,371,39.6,89.33,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Ácido Salicílico,Anti inflamatório,224,2.8,98.75,Lodo ativado + CMB + BAC,,China
+Chen et al.. 2021,Carbamazepina,Droga psiquiátrica,1.8,2.3,-27.78,Lodo ativado + CMB + BAC,,China
+Dubey et all.. 2022,Ibuprofeno,Anti inflamatório,2047.5,66,96.78,Lodo ativado,,Índia
+Dubey et all.. 2022,Ibuprofeno,Anti inflamatório,1859.8,39.1,97.89,Lodo ativado,,Índia
+Dubey et all.. 2022,Diclofenaco,Anti inflamatório,179.6,134.6,25.05,Lodo ativado,,Índia
+Dubey et all.. 2022,Diclofenaco,Anti inflamatório,226.9,161.9,28.65,Lodo ativado,,Índia
+Dubey et all.. 2022,Sulfametoxazol,Antibiótico,316.1,182.1,42.39,Lodo ativado,,Índia
+Dubey et all.. 2022,Sulfametoxazol,Antibiótico,447.1,347.6,22.25,Lodo ativado,,Índia
+Dubey et all.. 2022,Carbamazepina,Droga psiquiátrica,640.2,563.5,11.98,Lodo ativado,,Índia
+Dubey et all.. 2022,Carbamazepina,Droga psiquiátrica,477.9,415.8,12.99,Lodo ativado,,Índia
+Dubey et all.. 2022,Naproxeno,Anti inflamatório,1462.6,678.1,53.64,Lodo ativado,,Índia
+Dubey et all.. 2022,Naproxeno,Anti inflamatório,1663.6,839.3,49.55,Lodo ativado,,Índia
+Dubey et all.. 2022,Ketoprofeno,Anti inflamatório,215.5,82.4,61.76,Lodo ativado,,Índia
+Dubey et all.. 2022,Ketoprofeno,Anti inflamatório,142.5,36.8,74.17,Lodo ativado,,Índia
+Dubey et all.. 2022,Ciprofloxacino,Antibiótico,1112.7,689.5,38.03,Lodo ativado,,Índia
+Dubey et all.. 2022,Ciprofloxacino,Antibiótico,1231.2,805.3,34.59,Lodo ativado,,Índia
+Dubey et all.. 2022,Trimetoprima,Antibiótico,152.6,69.6,54.39,Lodo ativado,,Índia
+Dubey et all.. 2022,Trimetoprima,Antibiótico,102.6,71.9,29.92,Lodo ativado,,Índia
+Dubey et all.. 2022,Enrofloxacino,Antibiótico,176.3,88.7,49.59,Lodo ativado,,Índia
+Dubey et all.. 2022,Enrofloxacino,Antibiótico,163.2,66.8,59.07,Lodo ativado,,Índia
+Dubey et all.. 2022,Acetaminofeno,Anti inflamatório,48732.3,41.5,67.15,Lodo ativado,,Índia
+Dubey et all.. 2022,Acetaminofeno,Anti inflamatório,32771.6,45.9,99.86,Lodo ativado,,Índia
+Du et al.. 2015,Sulfametoxazol,Antibiótico,370,510,-37.84,Lodo ativado,,China
+Du et al.. 2015,Sulfametoxazol,Antibiótico,549,678,-23.49,Lodo ativado,,China
+Du et al.. 2015,Sulfametoxazol,Antibiótico,612,435,29.92,Lodo ativado,,China
+Du et al.. 2015,Ibuprofeno,Anti inflamatório,2540,496,80.47,Lodo ativado,,China
+Du et al.. 2015,Ibuprofeno,Anti inflamatório,2185,554,74.64,Lodo ativado,,China
+Du et al.. 2015,Ibuprofeno,Anti inflamatório,1970,732,62.84,Lodo ativado,,China
+Du et al.. 2015,Diclofenaco,Anti inflamatório,1693,652,61.49,Lodo ativado,,China
+Du et al.. 2015,Diclofenaco,Anti inflamatório,860,425,50.58,Lodo ativado,,China
+Du et al.. 2015,Diclofenaco,Anti inflamatório,1275,720,43.53,Lodo ativado,,China
+Du et al.. 2015,Carbamazepina,Droga psiquiátrica,965,1220,-26.43,Lodo ativado,,China
+Du et al.. 2015,Carbamazepina,Droga psiquiátrica,729,1047,-43.62,Lodo ativado,,China
+Du et al.. 2015,Carbamazepina,Droga psiquiátrica,1340,1455,-8.58,Lodo ativado,,China
+Du et al.. 2015,Norfloxacino,Antibiótico,23,42,-82.61,Lodo ativado,,China
+Du et al.. 2015,Norfloxacino,Antibiótico,165,470,-184.85,Lodo ativado,,China
+Du et al.. 2015,Norfloxacino,Antibiótico,273,84,69.23,Lodo ativado,,China
+Du et al.. 2015,Trimetoprima,Antibiótico,815,338,58.53,Lodo ativado,,China
+Du et al.. 2015,Trimetoprima,Antibiótico,470,539,-14.68,Lodo ativado,,China
+Du et al.. 2015,Trimetoprima,Antibiótico,368,183,50.27,Lodo ativado,,China
+Du et al.. 2015,Roxitromicina,Antibiótico,127,65,48.82,Lodo ativado,,China
+Du et al.. 2015,Roxitromicina,Antibiótico,158,50,68.35,Lodo ativado,,China
+Du et al.. 2015,Roxitromicina,Antibiótico,93,47,49.46,Lodo ativado,,China
+Fernández-López et al. 2016,Carbamazepina,Droga psiquiátrica,26520,11870,55.24,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Carbamazepina,Droga psiquiátrica,17450,10370,40.57,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Carbamazepina,Droga psiquiátrica,4990,1450,70.94,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Carbamazepina,Droga psiquiátrica,1870,2470,-32.08,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Carbamazepina,Droga psiquiátrica,560,2020,-260.71,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Diclofenaco,Anti inflamatório,5780,390,93.25,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Diclofenaco,Anti inflamatório,2010,530,0.736,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Diclofenaco,Anti inflamatório,820,380,53.66,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Ketoprofeno,Anti inflamatório,2520,670,73.41,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Ketoprofeno,Anti inflamatório,3390,1390,58.99,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Ketoprofeno,Anti inflamatório,540,340,37.04,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Naproxeno,Anti inflamatório,1360,280,79.41,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Naproxeno,Anti inflamatório,2670,940,64.79,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Naproxeno,Anti inflamatório,90,1010,-1022.22,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Naproxeno,Anti inflamatório,360,230,36.11,Lodo ativado,,Espanha
+Fernández-López et al. 2016,Naproxeno,Anti inflamatório,1810,3700,-104.42,Lodo ativado,,Espanha
+Gao et al. 2012,Sulfametoxazol,Antibiótico,1566,178,88.63,Lodo ativado,,Estados Unidos
+Gao et al. 2012,Carbamazepina,Droga psiquiátrica,110,155,-40.91,Lodo ativado,,Estados Unidos
+Gao et al. 2012,doxIcIclina,Antibiótico,738,338,54.20,Lodo ativado,,Estados Unidos
+Gao et al. 2012,oxItetracIclina,Antibiótico,29,13,55.17,Lodo ativado,,Estados Unidos
+Gao et al. 2012,sulfadiazina,Antibiótico,37,28,24.32,Lodo ativado,,Estados Unidos
+Gao et al. 2012,Lincomicina,Antibiótico,58,34,41.38,Lodo ativado,,Estados Unidos
+Gao et al. 2012,Acetaminofeno,Anti inflamatório,61683,70,0.999,Lodo ativado,,Estados Unidos
+Golovko et al. 2014,Sulfametoxazol,Antibiótico,220,90,58,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Carbamazepina,Droga psiquiátrica,460,510,12,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Norfloxacino,Antibiótico,550,83,86,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Levofloxacino,Antibiótico,22,6,75,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Ciprofloxacino,Antibiótico,410,65,86,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Azitromicina,Antibiótico,140,50,69,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Eritromicina,Antibiótico,77,110,-30,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Claritromicina,Antibiótico,1480,930,40,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Trimetoprima,Antibiótico,320,250,20,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Sulfapiridina,Antibiótico,200,55,70,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Sulfasalasina,Antibiótico,100,50,44,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Oxazepam,Droga psiquiátrica,56,62,-17,Lodo ativado,,República Tcheca
+Golovko et al. 2014,Memantina,Droga psiquiátrica,6,6,1,Lodo ativado,,República Tcheca
+Gracia-Lor et al. 2012,Diclofenaco,Anti inflamatório,560,330,41.07,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Ketoprofeno,Anti inflamatório,480,300,37.5,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Naproxeno,Anti inflamatório,1550,170,89.03,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Diclofenaco,Anti inflamatório,530,340,35.85,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Ketoprofeno,Anti inflamatório,370,330,10.81,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Naproxeno,Anti inflamatório,1320,130,90.15,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Claritromicina,Antibiótico,230,20,91.30,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Norfloxacino,Antibiótico,400,130,67.5,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Ofloxacino,Antibiótico,760,440,42.10,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Ciprofloxacino,Antibiótico,2450,700,71.43,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Lincomicina,Antibiótico,490,10,97.96,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Trimetoprima,Antibiótico,100,90,10,Lodo ativado,,Espanha
+Gracia-Lor et al. 2012,Sulfametoxazol,Antibiótico,450,50,88.89,Lodo ativado,,Espanha
+Guillossou et al. 2019,Eritromicina,Antibiótico,2374,245,89.68,Biofiltro,,França
+Guillossou et al. 2019,Azitromicina,Antibiótico,342,698,-104.09,Biofiltro,,França
+Guillossou et al. 2019,Ibuprofeno,Anti inflamatório,5597,320,94.28,Biofiltro,,França
+Guillossou et al. 2019,Sulfametoxazol,Antibiótico,1057,1312,-24.12,Biofiltro,,França
+Guillossou et al. 2019,Diclofenaco,Anti inflamatório,687,510,25.76,Biofiltro,,França
+Guillossou et al. 2019,Carbamazepina,Droga psiquiátrica,410,337,17.80,Biofiltro,,França
+Guillossou et al. 2020,Acetaminofeno,Anti inflamatório,260495,2618,98.99,Biofiltro,,França
+Guillossou et al. 2019,Ketoprofeno,Anti inflamatório,1169,240,79.47,Biofiltro,,França
+Guillossou et al. 2019,Naproxeno,Anti inflamatório,2302,205,91.09,Biofiltro,,França
+Guillossou et al. 2019,Ofloxacino,Antibiótico,429,333,22.38,Biofiltro,,França
+Guillossou et al. 2019,Trimetoprima,Antibiótico,344,118,0.61,Biofiltro,,França
+Guillossou et al. 2019,Carbamazepina,Droga psiquiátrica,337,119,64.69,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Eritromicina,Antibiótico,245,151,38.37,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Diclofenaco,Anti inflamatório,510,235,53.92,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Acetaminofeno,Anti inflamatório,2618,363,86.13,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Ketoprofeno,Anti inflamatório,240,83,65.42,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Naproxeno,Anti inflamatório,205,80,60.97,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Norfloxacino,Antibiótico,31,3,90.32,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Ofloxacino,Antibiótico,333,89,73.27,Terciário: carvão ativo,,França
+Guillossou et al. 2019,Trimetoprima,Antibiótico,118,19,83.89,Terciário: carvão ativo,,França
+Kasprzyk-Hordern et al.. 2009,Sulfametoxazol,Antibiótico,115,19,83.48,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Trimetoprima,Antibiótico,2925,876,70.05,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Cloranfenicol,Antibiótico,248,21,91.53,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Eritromicina,Antibiótico,2530,696,72.49,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Metrinidazol,Antibiótico,569,353,37.96,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Paracetamol,Anti inflamatório,178116,353,99.80,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ibuprofeno,Anti inflamatório,2294,143,93.77,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Diclofenaco,Anti inflamatório,260,179,31.15,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ketoprofeno,Anti inflamatório,123,18,85.36,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Naproxeno,Anti inflamatório,1173,170,85.51,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Aspirina,Anti inflamatório,2490,20,99.19,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ácido Salicílico,Anti inflamatório,12647,75,99.41,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Ácido Mefenâmico,Anti inflamatório,8,39,-387.5,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Codeína,Anti inflamatório,6954,2716,60.94,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et al.. 2009,Tramadol,Anti inflamatório,48488,28147,41.95,Lodo ativado,,Reino Unido
+Kasprzyk-Hordern et all.. 2008,Carbamazepina,Droga psiquiátrica,950,826,13.05,Lodo ativado,,Reino Unido
+Kołecka et al. 2020,Ibuprofeno,Anti inflamatório,5266,32,99.39,Lodo ativado,,Polônia
+Kołecka et al. 2020,Ibuprofeno,Anti inflamatório,760,1757,-131.18,Lodo ativado,,Polônia
+Kołecka et al. 2020,Ibuprofeno,Anti inflamatório,21276,942,95.57,Lodo ativado,,Polônia
+Kołecka et al. 2020,Ibuprofeno,Anti inflamatório,1890,3089,-63.44,Lodo ativado,,Polônia
+Kołecka et al. 2020,Paracetamol,Anti inflamatório,6583,39,99.41,Lodo ativado,,Polônia
+Kołecka et al. 2020,Paracetamol,Anti inflamatório,48509,2008,95.86,Lodo ativado,,Polônia
+Kołecka et al. 2020,Paracetamol,Anti inflamatório,627,299,52.31,Lodo ativado,,Polônia
+Kołecka et al. 2020,Diclofenaco,Anti inflamatório,2147,1853,13.69,Lodo ativado,,Polônia
+Kołecka et al. 2020,Diclofenaco,Anti inflamatório,608,5116,-741.45,Lodo ativado,,Polônia
+Kołecka et al. 2020,Diclofenaco,Anti inflamatório,5382,7769,-44.35,Lodo ativado,,Polônia
+Kołecka et al. 2020,Diclofenaco,Anti inflamatório,133,38,71.43,Lodo ativado,,Polônia
+Kołecka et al. 2020,Naproxeno,Anti inflamatório,823,61,92.59,Lodo ativado,,Polônia
+Kołecka et al. 2020,Naproxeno,Anti inflamatório,447,431,3.58,Lodo ativado,,Polônia
+Kołecka et al. 2020,Naproxeno,Anti inflamatório,12474,673,94.60,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Paracetamol,Anti inflamatório,9391.7,112.4,98.80,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Carbamazepina,Droga psiquiátrica,2071.9,3508.6,-69.34,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Eritromicina,Antibiótico,75.6 ,39.9 ,47.22,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Diclofenaco,Anti inflamatório,2138.0 ,3018.4,-41.18,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Ibuprofeno,Anti inflamatório,6586.1,141.7  ,97.85,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Ofloxacino,Antibiótico,125.7,35.2 ,74.38,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Ácido Salicílico,Anti inflamatório,13244.0 ,112.7,99.15,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Cloramphenicol,Antibiótico,22.0,5.9,73.18,Lodo ativado,,Polônia
+Kot-Wasik et al. 2016,Ketoprofeno,Anti inflamatório,2700.4,159.3,94.10,Lodo ativado,,Polônia
+Li e Zhang. 2011,Cefotaxima,Antibiótico,"93.0 
+","56.7 
+",39.03,Lodo ativado,,China
+Li e Zhang. 2011,Cefotaxima,Antibiótico,55.5 ,"36.1 
+
+",34.95,Lodo ativado,,China
+Li e Zhang. 2011,Cefotaxima,Antibiótico,"38.4 
+
+",24.6,35.94,Lodo ativado,,China
+Li e Zhang. 2011,Cefotaxima,Antibiótico,63.6 ,24.1,62.11,Lodo ativado,,China
+Li e Zhang. 2011,Cefalexina,Antibiótico,1718,1176,31.55,Lodo ativado,,China
+Li e Zhang. 2011,Cefalexina,Antibiótico,658,215,67.32,Lodo ativado,,China
+Li e Zhang. 2011,Cefalexina,Antibiótico,857,142,83.43,Lodo ativado,,China
+Li e Zhang. 2011,Cefalexina,Antibiótico,1164,807,30.67,Lodo ativado,,China
+Li e Zhang. 2011,Sulfamethoxazole,Antibiótico,64.2 ,3.6,94.39,Lodo ativado,,China
+Li e Zhang. 2011,Sulfamethoxazole,Antibiótico,86.6,6.4,92.61,Lodo ativado,,China
+Li e Zhang. 2011,Sulfamethoxazole,Antibiótico,52.0,13.0,75,Lodo ativado,,China
+Li e Zhang. 2011,Sulfamethoxazole,Antibiótico,127,3.7,97.08,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,264,136,48.48,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,195,165,15.38,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,88.8,72.6,18.24,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,114,71.2,37.54,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,1033,540,47.72,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,555,501,9.73,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,659,608,7.74,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,901,851,5.55,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,1042,463,55.57,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,478,393,17.78,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,726,527,27.41,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,629,610,3.02,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,295,236,20,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,221,213,3.62,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,228,149,34.65,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,353,214,38.38,Lodo ativado,,China
+Li e Zhang. 2011,Oxitetraciclina,Antibiótico,53.5,32.9,38.50,Lodo ativado,,China
+Li e Zhang. 2011,Oxitetraciclina,Antibiótico,66.8,49.0,26.65,Lodo ativado,,China
+Li e Zhang. 2011,Oxitetraciclina,Antibiótico,107,36.3,66.07,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,35.6,17.6,50.56,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,135,76.7,43.18,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,36.1,12.4,65.65,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,50.4,39.0,22.62,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,309,180,41.74,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,258,225,12.79,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,409,410,-0.24,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,280,261,6.78,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,154,84.4,45.19,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,100,95.0,5,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,114,115,-0.88,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,121,120,0.83,Lodo ativado,,China
+Li e Zhang. 2011,Vancomicina,Antibiótico,60.6,28.9,52.31,Lodo ativado,,China
+Li e Zhang. 2011,Ampicilina,Antibiótico,139,19.2,86.19,Lodo ativado,,China
+Li e Zhang. 2011,Ampicilina,Antibiótico,77.2,28.0,63.73,Lodo ativado,,China
+Li e Zhang. 2011,Ampicilina,Antibiótico,383,76.8,79.95,Lodo ativado,,China
+Li e Zhang. 2011,Sulfametoxazol,Antibiótico,163,47.1,71.10,Lodo ativado,,China
+Li e Zhang. 2011,Sulfametoxazol,Antibiótico,291,66.2,77.25,Lodo ativado,,China
+Li e Zhang. 2011,Sulfametoxazol,Antibiótico,194,67.4,65.26,Lodo ativado,,China
+Li e Zhang. 2011,Sulfametoxazol,Antibiótico,230,46.5,79.78,Lodo ativado,,China
+Li e Zhang. 2011,sulfadiazina,Antibiótico,4.4,1.4,68.18,Lodo ativado,,China
+Li e Zhang. 2011,sulfadiazina,Antibiótico,530,2.8,99.47,Lodo ativado,,China
+Li e Zhang. 2011,sulfadiazina,Antibiótico,28.2,2.0,92.91,Lodo ativado,,China
+Li e Zhang. 2011,sulfadiazina,Antibiótico,10.8,1.1,89.81,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,75.9,54.6,28.06,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,166,105,36.75,Lodo ativado,,China
+Li e Zhang. 2011,Norfloxacino,Antibiótico,119,18.2,84.71,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,235,76.4,67.49,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,172,68.7,60.06,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,98.6,66.5,32.55,Lodo ativado,,China
+Li e Zhang. 2011,Ciprofloxacino,Antibiótico,106,43.9,58.58,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,303,90.9,70,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,327,154,52.90,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,204,115,43.63,Lodo ativado,,China
+Li e Zhang. 2011,Ofloxacino,Antibiótico,188,57.8,69.25,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,110,102,7.27,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,76.7,68.2,11.08,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,59.8,23.8,60.20,Lodo ativado,,China
+Li e Zhang. 2011,Tetraciclina,Antibiótico,95.3,32.8,65.58,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,4.2,1.5,64.28,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,141,68.1,51.70,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,8.9,7.0,21.35,Lodo ativado,,China
+Li e Zhang. 2011,Roxitromicina,Antibiótico,17.5,13.3,24,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,340,153,55,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,169,130,23.07,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,374,285,23.79,Lodo ativado,,China
+Li e Zhang. 2011,Eritromicina,Antibiótico,207,202,2.41,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,172,124,27.91,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,161,65.0,59.63,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,151,78.6,47.95,Lodo ativado,,China
+Li e Zhang. 2011,Trimetoprima,Antibiótico,136,93.6,31.17,Lodo ativado,,China
+Li et al. 2019,Diclofenaco,Anti inflamatório,2.9,22.6,-679.3,Lodo ativado,,China
+Li et al. 2019,Diclofenaco,Anti inflamatório,9.2,1.2,86.96,Lodo ativado,,China
+Li et al. 2019,Diclofenaco,Anti inflamatório,61.2 ,4.1,93.30,Lodo ativado,,China
+Li et al. 2019,Diclofenaco,Anti inflamatório,3.7,55,-13.86,Lodo ativado,,China
+Li et al. 2019,Antipirina,Anti inflamatório,0.9 ,0.1,88.89,Lodo ativado,,China
+Li et al. 2019,Antipirina,Anti inflamatório,5.8,2.4,58.62,Lodo ativado,,China
+Li et al. 2019,Antipirina,Anti inflamatório,1.2,1.9,-58.33,Lodo ativado,,China
+Li et al. 2019,Antipirina,Anti inflamatório,1.1,1.2,-9.09,Lodo ativado,,China
+Li et al. 2019,Naproxeno,Anti inflamatório,3.8,2.5,34.21,Lodo ativado,,China
+Mohapatra et all.. 2016,Carbamazepina,Droga psiquiátrica,102,175,-71.57,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Ciprofloxacino,Antibiótico,2673,59,97.79,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Claritromicina,Antibiótico,116,48,58.62,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Diclofenaco,Anti inflamatório,83,34,59.04,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Eritromicina,Antibiótico,119,23,80.67,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Ibuprofeno,Anti inflamatório,13481,9,99.93,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Levofloxacino,Anti inflamatório,1081,10,99.07,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Naproxeno,Anti inflamatório,11772,13,99.88,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Sulfametoxazol,Antibiótico,2252,313,86.10,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Trimetoprima,Antibiótico,913,115,87.40,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Carbamazepina,Antibiótico,33,181,-448.48,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Cefalexina,Antibiótico,5912,1751,70.38,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Ciprofloxacino,Antibiótico,2789,257,90.78,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Claritromicina,Antibiótico,136,66,51.47,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Diclofenaco,Antibiótico,67,21,68.65,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Eritromicina,Antibiótico,143,72,49.65,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Ibuprofeno,Antibiótico,14333,40,99.72,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Levofloxacino,Droga psiquiátrica,1178,105,91.08,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Naproxeno,Droga psiquiátrica,11912,53,99.55,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Sulfametoxazol,Droga psiquiátrica,2007,342,82.96,Lodo ativado,,Estados Unidos
+Mohapatra et all.. 2016,Trimetoprima,Droga psiquiátrica,992,149,84.97,Lodo ativado,,Estados Unidos
+Muriuki et all.. 2020,Norfloxacino,Antibiótico,3890,3570,8.23,Filtro biológico percolador (FBP) + lagoas de maturação,,Quênia
+Muriuki et all.. 2020,Norfloxacino,Antibiótico,6700,1760,73.73,Sistema de lagoas,,Quênia
+Muriuki et all.. 2020,Norfloxacino,Antibiótico,5170,4250,17.79,Reator anaeróbio + wetland,,Quênia
+Muriuki et all.. 2020,Sulfametoxazol,Antibiótico,22480,10040,55.34,Lagoa de maturação + FBP,,Quênia
+Muriuki et all.. 2020,Sulfametoxazol,Antibiótico,39340,1170,97.03,Sistema de lagoas,,Quênia
+Muriuki et all.. 2020,Sulfametoxazol,Antibiótico,9070,94230,-938.92,Reator anaeróbio + wetland,,Quênia
+Muriuki et all.. 2020,Ciprofloxacino,Antibiótico,10010,2450,75.52,Lagoa de maturação + FBP,,Quênia
+Muriuki et all.. 2020,Ciprofloxacino,Antibiótico,12070,14560,-20.63,Sistema de lagoas,,Quênia
+Muriuki et all.. 2020,Ciprofloxacino,Antibiótico,4450,6520,-46.52,Reator anaeróbio + wetland,,Quênia
+Muriuki et all.. 2020,Trimetoprima,Antibiótico,24630,5270,78.60,Lagoa de maturação + FBP,,Quênia
+Muriuki et all.. 2020,Trimetoprima,Antibiótico,1880,4670,-496.81,Sistema de lagoas,,Quênia
+Muriuki et all.. 2020,Trimetoprima,Antibiótico,11270,15770,-38.15,Reator anaeróbio + wetland,,Quênia
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,1050,41.2,96.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,694,20.6,97.0,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,746,5.97,99.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,706,6.38,99.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,806,61.3,92.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,513,14.4,97.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,479,3.91,99.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,545,18.1,96.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,1130,177,84.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,756,31.7,95.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,636,45.7,92.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,748,5.63,99.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,650,67.4,89.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,407,18.3,95.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,452,1.41,99.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Ibuprofeno,Anti inflamatório,381,1.82,99.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,32.0,34.5,-8,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,24.0,25.2,-5,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,16.5,36.5,-122,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,119,90.8,24,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,116,50.0,56.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,51.4,48.3,5.98,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,52.1,81.6,-56.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,270,163,39.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,60.5,25.4,58.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,80.4,88.2,-9.67,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,100,52.7,47.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,248,149,39.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,14.9,18.4,-23.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,16.7,25.7,-53.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,48.5,10.8,77.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Carbamazepina,Droga psiquiátrica,56.2,65.9,-17.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,16500,78.3,99.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,15500,112,99.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,19400,98,99.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,18100,74,99.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,10900,110,99,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,8120,110,98.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,7960,106,98.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,889,70.1,92.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,1630,52.8,96.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,3020,65.9,97.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,10500,111,98.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,997,66.4,93.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,470,47.9,89.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,1390,60.1,95.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,1190,93.7,92.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ácido acetilsalicílico,Anti inflamatório,550,38,93.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,55.7,3.68,96.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,31.4,2.58,93.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,72.2,2.43,91.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,80.6,02.06,97.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,48.1,07.02,85.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,34.1,8.44,75.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,20.8,3.62,82.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,34.8,3.16,90.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,47.6,3.22,93.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,51.9,9.22,82.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,34.3,5.14,85,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,23.8,8.18,65.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,19.9,2.78,86,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,19,5.57,70.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,9.68,2.55,73.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Fenoprofeno,Anti inflamatório,24.6,1.59,93.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,162,56.9,72.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,103,25.7,64.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,230,64.2,75.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,80.6,13.8,82.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,173,139,19.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,138,90.4,34.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,97.6,34.1,65.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,61,22.4,63.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,145,123,14.7,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,164,127,22.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,116,59,49.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,68.3,43.1,36.9,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,89.4,91.1,-1.89,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,72.6,55.6,23.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,54.6,29.7,45.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Naproxeno,Anti inflamatório,38,12,68.5,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,189,92.3,68.4,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,325,151,51.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,238,75.2,53.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,369,139,62.2,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,211,129,38.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,164,141,14,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,344,204,40.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,267,87.5,67.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,164,90.7,44.8,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,204,83.7,59,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,313,219,30.1,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,236,156,34,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,141,76,46.3,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,108,79.7,26,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,188,127,32.6,Lodo ativado,,Japão
+Nakada et al.. 2006,Ketoprofeno,Anti inflamatório,147,68.1,53.6,Lodo ativado,,Japão
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1550,1560,-0.6,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1720,790,54.1,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1420,550,61.3,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1400,1230,12.3,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1470,1380,6.1,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,3730,3110,16.6,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1170,990,15.1,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,840,52,38.1,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,840,86,-2.4,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,540,47,13,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,680,63,7.4,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,830,53,36.1,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,580,800,-37.9,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,410,590,-43.9,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,320,270,15.6,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,250,250,0,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,220,250,-13.6,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,180,220,-21.7,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,210,260,-21.4,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,140,200,-42.9,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,490,670,-36.7,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,170,230,-35.3,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,200,220,-10,Lodo ativado ,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,560,560,0,Lodo ativado ,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1880,120,93.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,2090,200,90.4,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,980,300,69.4,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1170,660,43.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1520,500,67.1,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1700,880,48,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1500,270,82,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,910,150,83.5,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,560,180,67.9,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,820,620,24.4,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,750,690,8,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,360,340,5.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,300,270,10,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,380,260,31.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,190,190,0,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,460,370,19.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,180,150,16.7,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,600,760,-26.7,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,260,220,15.4,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,190,250,-31.6,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,560,630,-12.5,Sistema de lagoas,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1530,1470,3.9,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,1330,540,59.7,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,830,510,38.6,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,980,1120,-14.2,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,280,630,-125,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,760,900,-18.1,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,510,510,0,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,350,340,2.9,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,170,250,-47.1,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,280,400,-42.9,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,390,550,-41,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Diclofenaco,Anti inflamatório,290,570,-96.6,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,490,450,8.2,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,370,400,-8.1,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,110,110,0,Tanque séptico + wetland,,Turquia
+Nas et al.. 2021,Carbamazepina,Droga psiquiátrica,660,550,16.7,Tanque séptico + wetland,,Turquia
+Odize et al.. 2017,Carbamazepina,Droga psiquiátrica,115.8,178.4 ,-54.06,Lodo ativado,,Estados Unidos
+Odize et al.. 2017,Ácido acetilsalicílico,Anti inflamatório,7276.6,471.5,93.52,Lodo ativado,,Estados Unidos
+Odize et al.. 2017,Trimetoprima,Antibiótico,740.5 ,953.5 ,-28.76,Lodo ativado,,Estados Unidos
+Oosterhuis et al.. 2013,Carbamazepina,Droga psiquiátrica,440,260,40.91,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Droga psiquiátrica,740,890,-20.27,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Droga psiquiátrica,600,690,-15,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,230,180,21.74,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,67,470,-601.49,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,280,360,-28.57,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,170,230,-35.29,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,190,200,-5.26,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,180,220,-22.22,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,230,230,0,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,380,280,26.31,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,160,130,18.75,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,250,240,4,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,170,160,5.88,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,190,190,0,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,180,200,-11.11,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,230,220,4.35,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,380,200,47.37,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,160,100,37.5,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Carbamazepina,Anti inflamatório,250,230,8,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,340,180,47.06,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,210,210,0,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,870,250,71.26,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,310,170,48.39,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,280,150,46.43,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,290,220,24.14,Terciário: MBR,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,340,160,52.94,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,210,230,-9.52,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,870,210,75.86,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,310,150,51.62,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,280,65,76.78,Lodo ativado,,Holanda
+Oosterhuis et al.. 2013,Diclofenaco,Anti inflamatório,290,240,17.24,Lodo ativado,,Holanda
+Samaras et al.. 2013,Naproxeno,Anti inflamatório,0.98 ,0.05 ,95,Lodo ativado,,Grécia
+Samaras et al.. 2013,Naproxeno,Anti inflamatório,0.89 ,0.04 ,91,Lodo ativado,,Grécia
+Samaras et al.. 2013,Ketoprofeno,Anti inflamatório,1.17 ,0.05,89,Lodo ativado,,Grécia
+Samaras et al.. 2013,Ketoprofeno,Anti inflamatório,0.39,0.03,83,Lodo ativado,,Grécia
+Samaras et al.. 2013,Diclofenaco,Anti inflamatório,1.60 ,0.41 ,75,Lodo ativado,,Grécia
+Samaras et al.. 2013,Diclofenaco,Anti inflamatório,1.22 ,0.80 ,39,Lodo ativado,,Grécia
+Subedi et all.. 2017,Sulfametoxazol,Antibiótico,220,260,-18.18,Lodo ativado,,Índia
+Subedi et all.. 2017,Sulfametoxazol,Antibiótico,100,25,75,UASB + Lodo ativado,,Índia
+Subedi et all.. 2017,Carbamazepina,Anti inflamatório,450,580,-28.89,Lodo ativado,,Índia
+Subedi et all.. 2017,Carbamazepina,Anti inflamatório,550,480,12.72,UASB + Lodo ativado,,Índia
+Subedi et all.. 2017,Ibuprofeno,Anti inflamatório,1200,980,18.33,Lodo ativado,,Índia
+Subedi et al.. 2017,Ibuprofeno,Anti inflamatório,1400,630,55,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Diazepam,Droga psiquiátrica,23,36,-53.52,Lodo ativado,,Índia
+Subedi et al.. 2017,Diazepam,Droga psiquiátrica,25,9.5,62,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Oxazepam,Droga psiquiátrica,140,85,39.29,Lodo ativado,,Índia
+Subedi et al.. 2017,Oxazepam,Droga psiquiátrica,50,50,0,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Trimetoprima,Antibiótico,29,25,13.79,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Clindamicina,Antibiótico,31,25,19.35,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Lincomicina,Antibiótico,730,430,41.09,Lodo ativado,,Índia
+Subedi et al.. 2017,Lincomicina,Antibiótico,230,130,43.48,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Acetaminofeno,Anti inflamatório,9000,690,92.33,Lodo ativado,,Índia
+Subedi et al.. 2017,Acetaminofeno,Anti inflamatório,4500,340,92.44,UASB + Lodo ativado,,Índia
+Subedi et al.. 2017,Ácido Mefenâmico,Anti inflamatório,1100,570,48.18,Lodo ativado,,Índia
+Subedi et al.. 2017,Ácido Mefenâmico,Anti inflamatório,1100,440,60,UASB + Lodo ativado,,Índia
+Sui et al.. 2011,Diclofenaco,Anti inflamatório,286,185,35.31,Lodo ativado + MBR + Rem. biológica de nutrientes,,China
+Sui et al.. 2011,Carbamazepina,Anti inflamatório,76.3,88.2,-15.59,Lodo ativado + MBR + Rem. biológica de nutrientes,,China
+Sui et al.. 2011,Clorafenicol,Antibiótico,30.4,6.6,78.29,Lodo ativado + MBR + Rem. biológica de nutrientes,,China
+Sui et al.. 2011,Trimetoprima,Antibiótico,320,226,29.375,Lodo ativado + MBR + Rem. biológica de nutrientes,,China
+Vergili et al.. 2019,Diclofenaco,Anti inflamatório,4300,3400,20.93,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Paracetamol,Anti inflamatório,6600,56,99.15,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Sulfametoxazol,Antibiótico,2600,810,68.85,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Carbamazepina,Droga psiquiátrica,7100,3700,47.89,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Norfloxacino,Antibiótico,1500,25,98.33,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Ofloxacino,Antibiótico,180,68,62.22,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Roxitromicina,Antibiótico,16,91,-468.75,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Oxazepam,Droga psiquiátrica,590,300,49.15,Lodo ativado,,Alemanha
+Vergili et al.. 2019,Diclofenaco,Anti inflamatório,810,300,62.96,Lodo ativado,,Turquia
+Vergili et al.. 2019,Ácido Mefenâmico,Anti inflamatório,1200,130,89.17,Lodo ativado,,Turquia
+Vergili et al.. 2019,Sulfametoxazol,Antibiótico,240,71,70.42,Lodo ativado,,Turquia
+Vergili et al.. 2019,Carbamazepina,Droga psiquiátrica,160,330,-106.25,Lodo ativado,,Turquia
+Vergili et al.. 2019,Azitromicina,Antibiótico,62,490,-690.32,Lodo ativado,,Turquia
+Vergili et al.. 2019,Ciprofloxacino,Antibiótico,500,150,70,Lodo ativado,,Turquia
+Vergili et al.. 2019,Claritromicina,Antibiótico,54,470,-707.37,Lodo ativado,,Turquia
+Vergili et al.. 2019,Ofloxacino,Antibiótico,40,96,-140,Lodo ativado,,Turquia
+Vergili et al.. 2019,Oxazepam,Droga psiquiátrica,84,18,78.57,Lodo ativado,,Turquia
+Yu et al.. 2007,Ibuprofeno,Anti inflamatório,1900,250,87,Lodo ativado,,Estados Unidos
+Yu et al.. 2007,Diclofenaco,Anti inflamatório,110,90,18,Lodo ativado,,Estados Unidos
+Yu et al.. 2007,Naproxeno,Anti inflamatório,3200,380,88,Lodo ativado,,Estados Unidos
+Yu et al.. 2007,Ketoprofeno,Anti inflamatório,1200,280,77,Lodo ativado,,Estados Unidos
+ZACARÍAS et al.. 2017,Paracetamol,Anti inflamatório,600,200,66.67,Lodo ativado,,México
+ZACARÍAS et al.. 2017,Tetraciclina,Antibiótico,72700,64900,10.73,Lodo ativado,,México
+ZACARÍAS et al.. 2017,Ampicilina,Antibiótico,17100,15500,9.36,Lodo ativado,,México
+ZACARÍAS et al.. 2017,Clonazepam,Droga psiquiátrica,1300,700,46.15,Lodo ativado,,México
+Zorita et all.. 2009,Ibuprofeno,Anti inflamatório,6900,47.5 ,99.31,Lodo ativado,,México
+Zorita et all.. 2009,Diclofenaco,Anti inflamatório,230,490,-113.04,Lodo ativado,,México
+Fernández et al..2014,Paracetamol,Anti inflamatório,350,710,-102.86,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Carbamazepina,Droga psiquiátrica,100,160,-25,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Ibuprofeno,Anti inflamatório,11200,1600,85.71,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Diclofenaco,Anti inflamatório,160,550,-243.75,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Naproxeno,Anti inflamatório,3500,710,79.71,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Paracetamol,Anti inflamatório,2300,30,98.69,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Carbamazepina,Droga psiquiátrica,130,190,-46.15,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Ibuprofeno,Anti inflamatório,30500,910,97.02,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Diclofenaco,Anti inflamatório,300,390,-30,Lodo ativado + bioreator,,Espanha
+Fernández et al..2014,Naproxeno,Anti inflamatório,11600,570,95.08,Lodo ativado + bioreator,,Espanha
